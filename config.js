@@ -4,7 +4,7 @@ module.exports = {
   TOKEN: "",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "mongodb+srv://opiloggames:MZ2P2HXB6v6HBW1v@musicbot.dcvr8.mongodb.net/?retryWrites=true&w=majority",
+  mongodbUri : "",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
