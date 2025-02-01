@@ -15,20 +15,18 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-  "identifier": "Catfein ID",
-  "password": "catfein",
-  "host": "lava.catfein.com",
-  "port": 4000,
+  "identifier": "INZEWORLD.COM (DE)",
+  "password": "saher.inzeworld.com",
+  "host": "lava.inzeworld.com",
+  "port": 3128,
   "secure": false
      }
     {
-      
-  "name": "Catfein ID",
-  "password": "catfein",
-  "host": "lava.catfein.com",
-  "port": 4000,
+  "name": "INZEWORLD.COM (DE)",
+  "password": "saher.inzeworld.com",
+  "host": "lava.inzeworld.com",
+  "port": 3128,
   "secure": false
-      
     }
   ]
 }
