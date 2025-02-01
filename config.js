@@ -27,6 +27,7 @@ module.exports = {
   "host": "lava.inzeworld.com",
   "port": 3128,
   "secure": false
+      
     }
   ]
 }
