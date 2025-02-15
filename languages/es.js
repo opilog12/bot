@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "Desarrollado por SSRR | Prime Music v1.2",
+    footer: "Desarrollado por opilog",
     ping: {
       description: "Comprobar la latencia del bot",
       response: "Comprobando...",
@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- Tiempo de Respuesta del Bot: **{latency}ms**",
         websocketPing: "- Ping del WebSocket: **{ping}ms**",
         uptime: "- Tiempo de Actividad: **{uptime}**",
-        footer: "Desarrollado por SSRR | Prime Music v1.2"
+        footer: "Desarrollado por opilog"
       }
     },
     addsong: {
