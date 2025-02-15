@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "SSRR이(가) 개발 | Prime Music v1.2",
+    footer: "opilog이(가) 개발",
     ping: {
       description: "봇 지연 시간 확인",
       response: "지연 시간 측정 중...",
@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- 봇 응답 시간: **{latency}ms**",
         websocketPing: "- WebSocket 핑: **{ping}ms**",
         uptime: "- 가동 시간: **{uptime}**",
-        footer: "SSRR이(가) 개발 | Prime Music v1.2"
+        footer: "opilog이(가) 개발"
       }
     },
     addsong: {
