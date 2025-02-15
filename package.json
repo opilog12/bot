@@ -1,6 +1,6 @@
 {
-  "name": "prime-music",
-  "version": "1.2",
+  "name": "music-bot",
+  "version": "1.0",
   "description": "Music Bot",
   "main": "index.js",
   "dependencies": {
@@ -16,7 +16,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "SSRR",
+  "author": "Opilog",
   "license": "XX",
   "engines": {
     "node": "20.x"
