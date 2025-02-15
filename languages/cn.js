@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "由 SSRR 开发 | Prime Music v1.2",
+    footer: "由 opilog 开发",
     ping: {
       description: "检查机器人延迟",
       response: "正在测试延迟...",
@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- 机器人响应时间：**{latency}毫秒**",
         websocketPing: "- WebSocket延迟：**{ping}毫秒**",
         uptime: "- 运行时间：**{uptime}**",
-        footer: "由 SSRR 开发 | Prime Music v1.2"
+        footer: "由 opilog 开发"
       }
     },
     addsong: {
