@@ -20,13 +20,13 @@ module.exports = {
   "host": "lavahatry4.techbyte.host",
   "port": 3000,
   "secure": false
-     },
+         },
     {
   "name": "ChalresNaig Node",
   "password": "NAIGLAVA-dash.techbyte.host",
   "host": "lavahatry4.techbyte.host",
   "port": 3000,
   "secure": false
-    }
+        }
   ]
 }
