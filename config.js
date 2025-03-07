@@ -15,17 +15,17 @@ module.exports = {
   errorLog: "", 
   nodes: [
     {
-  "identifier": "ChalresNaig Node",
-  "password": "NAIGLAVA-dash.techbyte.host",
-  "host": "lavahatry4.techbyte.host",
-  "port": 3000,
+  "identifier": "INZEWORLD.COM (DE)",
+  "password": "saher.inzeworld.com",
+  "host": "lava.inzeworld.com",
+  "port": 3128,
   "secure": false
                         },
    {
-  "name": "ChalresNaig Node",
-  "password": "NAIGLAVA-dash.techbyte.host",
-  "host": "lavahatry4.techbyte.host",
-  "port": 3000,
+  "name": "INZEWORLD.COM (DE)",
+  "password": "saher.inzeworld.com",
+  "host": "lava.inzeworld.com",
+  "port": 3128,
   "secure": false
                         }
   ]
