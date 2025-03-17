@@ -15,18 +15,18 @@ module.exports = {
   errorLog: "", 
   nodes: [
     {
-  "identifier": "INZEWORLD.COM (DE)",
-  "password": "saher.inzeworld.com",
-  "host": "lava.inzeworld.com",
-  "port": 3128,
+  "identifier": "Public2 Lavalink V2",
+  "password": "noise",
+  "host": "utopia.pylex.xyz",
+  "port": 10167,
   "secure": false
                         },
     {
-  "name": "INZEWORLD.COM (DE)",
-  "password": "saher.inzeworld.com",
-  "host": "lava.inzeworld.com",
-  "port": 3128,
+  "identifier": "Public2 Lavalink V2",
+  "password": "noise",
+  "host": "utopia.pylex.xyz",
+  "port": 10167,
   "secure": false
-                        }
+                        },
   ]
 }
