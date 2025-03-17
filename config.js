@@ -15,17 +15,18 @@ module.exports = {
   errorLog: "", 
   nodes: [
     {
-  "identifier": "Public2 Lavalink V2",
-  "password": "noise",
-  "host": "utopia.pylex.xyz",
-  "port": 10167,
+  "identifier": "GlaceYT",
+  "password": "glaceyt",
+  "host": "193.226.78.187",
+  "port":  9372,
   "secure": false
                         },
+    
     {
-  "identifier": "Public2 Lavalink V2",
-  "password": "noise",
-  "host": "utopia.pylex.xyz",
-  "port": 10167,
+  "name": "GlaceYT",
+  "password": "glaceyt",
+  "host": "193.226.78.187",
+  "port":  9372,
   "secure": false
                         },
   ]
