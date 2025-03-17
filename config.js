@@ -21,7 +21,7 @@ module.exports = {
   "port": 80,
   "secure": false
                         },
-   
+    {
   "name": "Public Lavalink v4 NonSSL",
   "password": "https://dsc.gg/ajidevserver",
   "host": "lava-v4.ajieblogs.eu.org",
